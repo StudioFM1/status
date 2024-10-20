@@ -3,11 +3,15 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: StudioFM1 Website
+  - name: Website
     url: https://fm1.hmu.gr
     __dangerous__insecure: true
+  - name: Icecast
+    url: https://fm1.hmu.gr/
+    port: 8000
+    __dangerous__insecure: true
   - name: Live Stream
-    url: https://fm1.hmu.gr/live
+    url: https://fm1.hmu.gr/live.m3u
     port: 8000
     __dangerous__insecure: true
 
