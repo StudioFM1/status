@@ -4,54 +4,59 @@
     "url": "https://fm1.hmu.gr",
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1990,
     "timeDay": 1876,
     "timeWeek": 1990,
     "timeMonth": 1990,
     "timeYear": 1990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "Icecast",
     "url": "https://fm1.hmu.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 314,
     "timeDay": 422,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "Live Stream",
     "url": "https://fm1.hmu.gr/live.m3u",
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
-    "status": "up",
-    "uptime": "99.80%",
+    "status": "down",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 331,
     "timeDay": 397,
     "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2024-10-23": 0,
       "2024-10-20": 8
     }
   }
