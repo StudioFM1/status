@@ -1,7 +1,7 @@
 url: https://fm1.hmu.gr/
-status: up
-code: 200
-responseTime: 360
-lastUpdated: 2025-06-04T23:18:44.109Z
+status: down
+code: 502
+responseTime: 157
+lastUpdated: 2025-06-05T08:16:07.042Z
 startTime: 2024-10-20T06:39:17.028Z
 generator: Upptime <https://github.com/upptime/upptime>
