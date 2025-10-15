@@ -1,7 +1,7 @@
 url: https://fm1.hmu.gr/live.m3u
-status: down
-code: 502
-responseTime: 157
-lastUpdated: 2025-10-15T19:53:08.817Z
+status: up
+code: 200
+responseTime: 204
+lastUpdated: 2025-10-15T19:58:27.182Z
 startTime: 2024-10-20T06:31:10.198Z
 generator: Upptime <https://github.com/upptime/upptime>
