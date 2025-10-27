@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "87.43%",
+    "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "87.25%",
+    "uptimeYear": "87.36%",
     "time": 2009,
-    "timeDay": 2500,
-    "timeWeek": 2328,
-    "timeMonth": 2258,
-    "timeYear": 2016,
+    "timeDay": 2121,
+    "timeWeek": 2347,
+    "timeMonth": 2267,
+    "timeYear": 2017,
     "dailyMinutesDown": {
       "2025-10-15": 12,
       "2025-10-10": 222,
@@ -97,8 +97,7 @@
       "2024-11-12": 30,
       "2024-11-04": 450,
       "2024-11-03": 1440,
-      "2024-11-02": 1364,
-      "2024-10-27": 935
+      "2024-11-02": 1364
     }
   },
   {
@@ -107,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "87.41%",
+    "uptime": "87.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "87.23%",
+    "uptimeYear": "87.34%",
     "time": 492,
-    "timeDay": 728,
-    "timeWeek": 653,
-    "timeMonth": 575,
+    "timeDay": 686,
+    "timeWeek": 655,
+    "timeMonth": 583,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2025-10-23": 5,
@@ -222,8 +221,7 @@
       "2024-11-12": 29,
       "2024-11-04": 450,
       "2024-11-03": 1440,
-      "2024-11-02": 1363,
-      "2024-10-27": 929
+      "2024-11-02": 1363
     }
   },
   {
@@ -232,15 +230,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "87.44%",
+    "uptime": "87.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.17%",
-    "uptimeYear": "87.27%",
+    "uptimeYear": "87.37%",
     "time": 264,
-    "timeDay": 398,
-    "timeWeek": 291,
-    "timeMonth": 255,
+    "timeDay": 233,
+    "timeWeek": 299,
+    "timeMonth": 256,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-10-15": 58,
@@ -318,8 +316,7 @@
       "2024-11-12": 29,
       "2024-11-04": 450,
       "2024-11-03": 1440,
-      "2024-11-02": 1363,
-      "2024-10-27": 929
+      "2024-11-02": 1363
     }
   }
 ]
