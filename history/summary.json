@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "88.57%",
+    "uptime": "88.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.47%",
+    "uptimeYear": "88.74%",
     "time": 2012,
-    "timeDay": 1742,
-    "timeWeek": 1947,
-    "timeMonth": 2030,
+    "timeDay": 2186,
+    "timeWeek": 1981,
+    "timeMonth": 2034,
     "timeYear": 2027,
     "dailyMinutesDown": {
       "2025-10-15": 12,
@@ -88,8 +88,7 @@
       "2025-01-11": 1060,
       "2025-01-02": 6,
       "2024-12-17": 16,
-      "2024-12-09": 8,
-      "2024-12-03": 649
+      "2024-12-09": 8
     }
   },
   {
@@ -98,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "88.54%",
+    "uptime": "88.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "88.44%",
+    "uptimeYear": "88.72%",
     "time": 489,
-    "timeDay": 413,
-    "timeWeek": 404,
-    "timeMonth": 436,
+    "timeDay": 543,
+    "timeWeek": 421,
+    "timeMonth": 432,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2025-11-26": 6,
@@ -209,8 +208,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1060,
       "2024-12-17": 16,
-      "2024-12-09": 8,
-      "2024-12-03": 649
+      "2024-12-09": 8
     }
   },
   {
@@ -219,15 +217,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "88.58%",
+    "uptime": "88.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.48%",
+    "uptimeYear": "88.75%",
     "time": 264,
-    "timeDay": 267,
-    "timeWeek": 290,
-    "timeMonth": 258,
+    "timeDay": 398,
+    "timeWeek": 301,
+    "timeMonth": 263,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-10-15": 58,
@@ -297,8 +295,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1059,
       "2024-12-17": 15,
-      "2024-12-09": 7,
-      "2024-12-03": 649
+      "2024-12-09": 7
     }
   }
 ]
