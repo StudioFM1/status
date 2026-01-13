@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "86.52%",
+    "uptime": "86.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.46%",
+    "uptimeWeek": "50.68%",
     "uptimeMonth": "54.35%",
-    "uptimeYear": "85.27%",
-    "time": 2007,
-    "timeDay": 2214,
-    "timeWeek": 2008,
-    "timeMonth": 1907,
-    "timeYear": 2004,
+    "uptimeYear": "85.55%",
+    "time": 2005,
+    "timeDay": 1272,
+    "timeWeek": 1861,
+    "timeMonth": 1870,
+    "timeYear": 2002,
     "dailyMinutesDown": {
       "2026-01-09": 711,
       "2026-01-08": 1440,
@@ -98,8 +98,7 @@
       "2025-02-15": 574,
       "2025-02-14": 210,
       "2025-02-06": 14,
-      "2025-01-14": 826,
-      "2025-01-13": 1440
+      "2025-01-14": 826
     }
   },
   {
@@ -108,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "86.50%",
+    "uptime": "86.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.46%",
+    "uptimeWeek": "50.68%",
     "uptimeMonth": "54.35%",
-    "uptimeYear": "85.24%",
+    "uptimeYear": "85.52%",
     "time": 488,
-    "timeDay": 452,
-    "timeWeek": 457,
-    "timeMonth": 451,
+    "timeDay": 377,
+    "timeWeek": 441,
+    "timeMonth": 447,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-01-09": 711,
@@ -230,8 +229,7 @@
       "2025-02-15": 574,
       "2025-02-14": 209,
       "2025-02-06": 14,
-      "2025-01-14": 821,
-      "2025-01-13": 1440
+      "2025-01-14": 821
     }
   },
   {
@@ -240,15 +238,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "86.53%",
+    "uptime": "86.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.46%",
+    "uptimeWeek": "50.68%",
     "uptimeMonth": "54.36%",
-    "uptimeYear": "85.28%",
+    "uptimeYear": "85.55%",
     "time": 265,
-    "timeDay": 200,
-    "timeWeek": 237,
-    "timeMonth": 264,
+    "timeDay": 185,
+    "timeWeek": 226,
+    "timeMonth": 257,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2026-01-09": 711,
@@ -329,8 +327,7 @@
       "2025-02-15": 574,
       "2025-02-14": 209,
       "2025-02-06": 13,
-      "2025-01-14": 821,
-      "2025-01-13": 1440
+      "2025-01-14": 821
     }
   }
 ]
