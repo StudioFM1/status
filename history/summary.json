@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "87.14%",
+    "uptime": "87.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "85.56%",
-    "time": 2002,
-    "timeDay": 1832,
-    "timeWeek": 1932,
-    "timeMonth": 1951,
-    "timeYear": 2016,
+    "uptimeYear": "85.62%",
+    "time": 2001,
+    "timeDay": 1463,
+    "timeWeek": 1802,
+    "timeMonth": 1923,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2026-02-11": 167,
       "2026-02-05": 44,
@@ -98,8 +98,7 @@
       "2025-03-13": 568,
       "2025-03-12": 208,
       "2025-03-01": 113,
-      "2025-02-18": 16,
-      "2025-02-15": 574
+      "2025-02-18": 16
     }
   },
   {
@@ -108,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "87.11%",
+    "uptime": "87.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "95.06%",
-    "uptimeYear": "85.53%",
-    "time": 485,
-    "timeDay": 491,
-    "timeWeek": 484,
-    "timeMonth": 437,
+    "uptimeYear": "85.58%",
+    "time": 486,
+    "timeDay": 420,
+    "timeWeek": 475,
+    "timeMonth": 436,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2026-02-11": 167,
@@ -231,8 +230,7 @@
       "2025-03-13": 568,
       "2025-03-12": 207,
       "2025-03-01": 113,
-      "2025-02-18": 4,
-      "2025-02-15": 574
+      "2025-02-18": 4
     }
   },
   {
@@ -241,15 +239,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "87.15%",
+    "uptime": "87.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "95.23%",
-    "uptimeYear": "85.58%",
+    "uptimeYear": "85.63%",
     "time": 265,
-    "timeDay": 226,
-    "timeWeek": 264,
-    "timeMonth": 266,
+    "timeDay": 300,
+    "timeWeek": 273,
+    "timeMonth": 264,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2026-02-11": 167,
@@ -329,8 +327,7 @@
       "2025-03-13": 568,
       "2025-03-12": 206,
       "2025-03-01": 112,
-      "2025-02-18": 2,
-      "2025-02-15": 574
+      "2025-02-18": 2
     }
   }
 ]
