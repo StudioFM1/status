@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "87.85%",
+    "uptime": "87.86%",
     "uptimeDay": "66.00%",
     "uptimeWeek": "95.14%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "85.67%",
-    "time": 2007,
-    "timeDay": 1546,
-    "timeWeek": 1949,
-    "timeMonth": 1955,
+    "time": 2006,
+    "timeDay": 1445,
+    "timeWeek": 1840,
+    "timeMonth": 1927,
     "timeYear": 2005,
     "dailyMinutesDown": {
       "2026-03-20": 490,
@@ -98,8 +98,7 @@
       "2025-04-06": 274,
       "2025-04-02": 600,
       "2025-04-01": 181,
-      "2025-03-24": 6,
-      "2025-03-21": 22
+      "2025-03-24": 6
     }
   },
   {
@@ -108,14 +107,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "87.82%",
+    "uptime": "87.83%",
     "uptimeDay": "66.03%",
     "uptimeWeek": "95.15%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "85.63%",
     "time": 480,
-    "timeDay": 462,
-    "timeWeek": 447,
+    "timeDay": 475,
+    "timeWeek": 449,
     "timeMonth": 451,
     "timeYear": 446,
     "dailyMinutesDown": {
@@ -231,8 +230,7 @@
       "2025-04-03": 6,
       "2025-04-02": 600,
       "2025-04-01": 181,
-      "2025-03-24": 6,
-      "2025-03-21": 22
+      "2025-03-24": 6
     }
   },
   {
@@ -241,16 +239,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "87.86%",
+    "uptime": "87.87%",
     "uptimeDay": "66.06%",
     "uptimeWeek": "95.15%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "85.68%",
     "time": 265,
-    "timeDay": 296,
-    "timeWeek": 272,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "timeDay": 276,
+    "timeWeek": 256,
+    "timeMonth": 261,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2026-03-20": 489,
       "2026-03-11": 51,
@@ -329,8 +327,7 @@
       "2025-04-06": 273,
       "2025-04-02": 600,
       "2025-04-01": 186,
-      "2025-03-24": 5,
-      "2025-03-21": 21
+      "2025-03-24": 5
     }
   }
 ]
