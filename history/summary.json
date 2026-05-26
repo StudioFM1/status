@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "85.91%",
-    "time": 1976,
-    "timeDay": 1430,
-    "timeWeek": 2045,
-    "timeMonth": 1887,
-    "timeYear": 1988,
+    "uptimeYear": "86.19%",
+    "time": 1974,
+    "timeDay": 1668,
+    "timeWeek": 2029,
+    "timeMonth": 1885,
+    "timeYear": 1987,
     "dailyMinutesDown": {
       "2026-05-23": 148,
       "2026-05-03": 846,
@@ -91,8 +91,7 @@
       "2025-06-02": 347,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 92,
-      "2025-05-26": 508
+      "2025-05-30": 92
     }
   },
   {
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "89.05%",
+    "uptime": "89.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "85.88%",
+    "uptimeYear": "86.16%",
     "time": 453,
-    "timeDay": 488,
-    "timeWeek": 449,
-    "timeMonth": 444,
+    "timeDay": 399,
+    "timeWeek": 452,
+    "timeMonth": 442,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-05-23": 147,
@@ -210,8 +209,7 @@
       "2025-06-02": 347,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 98,
-      "2025-05-26": 508
+      "2025-05-30": 98
     }
   },
   {
@@ -220,15 +218,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "89.10%",
+    "uptime": "89.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "85.94%",
+    "uptimeYear": "86.21%",
     "time": 265,
-    "timeDay": 257,
-    "timeWeek": 278,
-    "timeMonth": 263,
+    "timeDay": 161,
+    "timeWeek": 256,
+    "timeMonth": 258,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2026-05-23": 147,
@@ -302,8 +300,7 @@
       "2025-06-02": 347,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 85,
-      "2025-05-26": 508
+      "2025-05-30": 85
     }
   }
 ]
