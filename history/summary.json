@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "89.20%",
+    "uptime": "89.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "86.33%",
-    "time": 1973,
-    "timeDay": 2321,
-    "timeWeek": 1716,
-    "timeMonth": 1822,
-    "timeYear": 1965,
+    "uptimeYear": "86.61%",
+    "time": 1972,
+    "timeDay": 1280,
+    "timeWeek": 1694,
+    "timeMonth": 1804,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2026-05-03": 846,
       "2026-04-24": 82,
@@ -87,8 +87,7 @@
       "2025-07-10": 2,
       "2025-06-05": 25,
       "2025-06-04": 6,
-      "2025-06-02": 347,
-      "2025-06-01": 1440
+      "2025-06-02": 347
     }
   },
   {
@@ -97,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "icecast",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "86.30%",
+    "uptimeYear": "86.58%",
     "time": 452,
     "timeDay": 414,
-    "timeWeek": 424,
-    "timeMonth": 433,
+    "timeWeek": 414,
+    "timeMonth": 431,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2026-05-03": 845,
@@ -202,8 +201,7 @@
       "2025-06-18": 6,
       "2025-06-05": 25,
       "2025-06-04": 6,
-      "2025-06-02": 347,
-      "2025-06-01": 1440
+      "2025-06-02": 347
     }
   },
   {
@@ -212,15 +210,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fm1.hmu.gr.ico",
     "slug": "live-stream",
     "status": "up",
-    "uptime": "89.33%",
+    "uptime": "89.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.52%",
+    "uptimeYear": "86.79%",
     "time": 265,
-    "timeDay": 239,
-    "timeWeek": 244,
-    "timeMonth": 259,
+    "timeDay": 290,
+    "timeWeek": 249,
+    "timeMonth": 261,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2026-04-07": 105,
@@ -289,8 +287,7 @@
       "2025-07-17": 371,
       "2025-07-11": 67,
       "2025-07-10": 1,
-      "2025-06-02": 347,
-      "2025-06-01": 1440
+      "2025-06-02": 347
     }
   }
 ]
